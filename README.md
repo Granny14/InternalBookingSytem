@@ -33,3 +33,10 @@ If you're using Git:
 
 ```bash
 git clone (https://github.com/Granny14/InternalBookingSytem.git)
+
+Due to system limitations, I was unable to generate a physical backup of the database (e.g., .sql or .bak file).  
+However, the application can recreate the database automatically using Entity Framework Core Migrations.
+
+To recreate the database:
+1. Run `dotnet ef database update` in the terminal
+2. Ensure `appsettings.json` is correctly configured for your local database
