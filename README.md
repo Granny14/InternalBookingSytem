@@ -32,4 +32,4 @@ This is a simple web application developed in ASP.NET Core MVC that allows emplo
 If you're using Git:
 
 ```bash
-git clone https://github.com/YourUsername/InternalResourceBookingSystem.git
+git clone (https://github.com/Granny14/InternalBookingSytem.git)
